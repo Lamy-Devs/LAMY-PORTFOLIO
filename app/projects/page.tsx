@@ -9,7 +9,7 @@ import { useEffect, useState } from "react"
 
 const projects = [
   {
-    title: "Website Downloader",
+    title: "Website Downloade",
     description: "A tool for grabbing source code of websites.",
     image: "/projects/website-downloader.jpg",
     demoUrl: "#",
