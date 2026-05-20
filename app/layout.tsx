@@ -12,7 +12,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: 'Lamy Tech | Portfolio',
-  description: 'Self-learned developer from Kenya - Web Development, App Development, Graphics Design & Software Solutions',
+  description: 'Self-learned developer from Uganda - Web Development, App Development, Graphics Design & Software Solutions',
   generator: 'v0.app',
   icons: {
     icon: [
