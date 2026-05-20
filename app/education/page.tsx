@@ -30,7 +30,7 @@ const education = [
     title: "Primary School Certificate",
     institution: "Webuye ACK Primary School, Webuye - Bungoma County",
     period: "2016 - 2019",
-    description: "I Obtained a score of 301 marks and qualified to join secondary school.",
+    description: "I Obtained a score of - marks and qualified to join secondary school.",
     isCurrent: false,
   },
   {
