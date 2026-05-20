@@ -1,7 +1,6 @@
 "use client"
 
 import Link from "next/link"
-import Image from "next/image"
 import { usePathname } from "next/navigation"
 import { useTheme } from "next-themes"
 import { 
@@ -58,15 +57,6 @@ export function Navbar() {
     >
       <nav className="container mx-auto px-4 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2 group">
-          <div className="w-10 h-10 rounded-full overflow-hidden border-2 border-primary/30 group-hover:border-primary transition-colors duration-300 group-hover:scale-110">
-            <Image
-              src="/images/tech-avatar.jpg"
-              alt="Lamy Tech"
-              width={40}
-              height={40}
-              className="object-cover"
-            />
-          </div>
           <span className="text-xl font-semibold">
             <span className="text-primary group-hover:text-accent transition-colors duration-300">Lamy</span>
             <span className="text-foreground">Tech</span>
