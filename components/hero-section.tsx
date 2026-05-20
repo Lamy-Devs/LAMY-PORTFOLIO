@@ -94,7 +94,7 @@ export function HeroSection() {
             }`}
           >
             <p className="text-muted-foreground leading-relaxed animate-fade-in-up animation-delay-300">
-              {"I'm"} a self-learned developer from Kenya. {"I'm"} still a student, currently in third year school of Business and economics taking Bachelor of Business Management at Moi University - Eldoret.
+              {"I'm"} a self-learned developer from Kenya. {"I'm"} still a student, currently in second year school of computing and mathematics taking Bachelor of software engineering at The co-ooperative university of Kenya - Karen.
             </p>
             
             <p className="text-muted-foreground leading-relaxed animate-fade-in-up animation-delay-400">
