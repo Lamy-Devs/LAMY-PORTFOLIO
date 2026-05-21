@@ -53,7 +53,7 @@ export function HeroSection() {
                 <div className="w-full h-full rounded-full overflow-hidden relative">
                   <Image
                     src="/images/profile.jpg"
-                    alt="Lamy .Devs"
+                    alt="Lamy Devs"
                     fill
                     className="object-cover"
                     priority
@@ -72,7 +72,7 @@ export function HeroSection() {
             
             <h1 className="text-4xl md:text-5xl font-bold mb-2 animate-fade-in-up">
               <span className="text-primary">Lamy</span>{" "}
-              <span className="text-foreground">Devs</span>
+              <span className="text-foreground">Creatives</span>
             </h1>
             
             <h2 className="text-xl md:text-2xl text-muted-foreground mb-4 h-8">
@@ -103,7 +103,7 @@ export function HeroSection() {
             
             <div className="bg-card rounded-xl p-4 border border-border hover:border-primary/50 transition-all duration-300 hover:shadow-lg hover:shadow-primary/10 animate-fade-in-up animation-delay-500 hover:-translate-y-1">
               <p className="text-foreground">
-                <span className="font-semibold">Lamy Tech</span>{" "}
+                <span className="font-semibold">Lamy Devs</span>{" "}
                 <span className="text-primary">crafts</span> digital{" "}
                 <span className="text-primary">experiences</span> that{" "}
                 <span className="text-accent">inspire</span> and{" "}
