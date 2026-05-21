@@ -72,7 +72,7 @@ export function HeroSection() {
             
             <h1 className="text-4xl md:text-5xl font-bold mb-2 animate-fade-in-up">
               <span className="text-primary">Lamy</span>{" "}
-              <span className="text-foreground">Tech</span>
+              <span className="text-foreground">Devs</span>
             </h1>
             
             <h2 className="text-xl md:text-2xl text-muted-foreground mb-4 h-8">
