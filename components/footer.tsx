@@ -5,11 +5,11 @@ import { Github, MessageCircle, Twitter, Music2, Mail } from "lucide-react"
 import { useEffect, useState } from "react"
 
 const socialLinks = [
-  { href: "https://github.com", icon: Github, label: "GitHub" },
-  { href: "https://wa.me", icon: MessageCircle, label: "WhatsApp" },
+  { href: "https://github.com/Lamy-Devs", icon: Github, label: "GitHub" },
+  { href: "https://wa.me/message/BT7OVX4BS244C1", icon: MessageCircle, label: "WhatsApp" },
   { href: "https://twitter.com", icon: Twitter, label: "Twitter" },
   { href: "https://tiktok.com", icon: Music2, label: "TikTok" },
-  { href: "mailto:hello@example.com", icon: Mail, label: "Email" },
+  { href: "lameckadema204@gmail.com.com", icon: Mail, label: "Email" },
 ]
 
 export function Footer() {
