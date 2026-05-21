@@ -23,11 +23,11 @@ export const metadata: Metadata = {
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
+        url: 'g',
+        type: '',
       },
     ],
-    apple: '/apple-icon.png',
+    apple: '/',
   },
 }
 
