@@ -53,7 +53,7 @@ export function HeroSection() {
                 <div className="w-full h-full rounded-full overflow-hidden relative">
                   <Image
                     src="/images/profile.jpg"
-                    alt="Lamy Tech"
+                    alt="Lamy .Devs"
                     fill
                     className="object-cover"
                     priority
