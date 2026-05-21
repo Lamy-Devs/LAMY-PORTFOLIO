@@ -12,7 +12,7 @@ import { useState, useEffect } from "react"
 
 const socialLinks = [
   { href: "https://github.com/Lamy-Devs", icon: Github, label: "GitHub" },
-  { href: "https://wa.me", icon: MessageCircle, label: "WhatsApp" },
+  { href: "https://wa.me/message/BT7OVX4BS244C1", icon: MessageCircle, label: "WhatsApp" },
   { href: "https://twitter.com", icon: Twitter, label: "Twitter" },
   { href: "https://www.tiktok.com/@_its.lamy?is_from_webapp=1&sender_device=pc", icon: Music2, label: "TikTok" },
   { href: "lameckadema204@gmail.com", icon: Mail, label: "Email" },
