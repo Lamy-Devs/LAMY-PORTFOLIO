@@ -10,7 +10,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'Lamy Tech | Portfolio',
+  title: 'Lamy Adema | Portfolio',
   description: 'Self-learned developer from Kenya - Web Development, App Development, Graphics Design & Software Solutions',
   icons: {
     icon: [
