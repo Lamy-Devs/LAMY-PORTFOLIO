@@ -10,25 +10,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'Lamy Adema | Portfolio',
+  title: 'Lamy Tech | Portfolio',
   description: 'Self-learned developer from Kenya - Web Development, App Development, Graphics Design & Software Solutions',
-  icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: 'g',
-        type: '',
-      },
-    ],
-    apple: '/',
-  },
 }
 
 export default function RootLayout({
